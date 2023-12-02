@@ -1,0 +1,93 @@
+#Font Config
+font:
+  normal:
+    family: "Space Mono Nerd Font"
+    style: regular
+  bold:
+    family: "Space Mono Nerd Font"
+    style: bold
+  italic:
+    family: "Space Mono Nerd Font"
+    style: italic
+
+  size: 18
+draw_bold_text_with_bright_colors: true
+
+# Window Config
+window:
+  opacity: 0.93
+  padding:
+    x: 4
+    y: 4
+  dynamic_padding: true
+colors:
+  name: Eighties (light)
+  author: Chris Kempson
+  primary:
+    background: "#f2f0ec"
+    foreground: "#515151"
+  cursor:
+    text: "#f2f0ec"
+    cursor: "#515151"
+  normal:
+    black: "#2d2d2d"
+    red: "#f2777a"
+    green: "#99cc99"
+    yellow: "#ffcc66"
+    blue: "#6699cc"
+    magenta: "#cc99cc"
+    cyan: "#66cccc"
+    white: "#d3d0c8"
+  bright:
+    black: "#747369"
+    red: "#f2777a"
+    green: "#99cc99"
+    yellow: "#ffcc66"
+    blue: "#6699cc"
+    magenta: "#cc99cc"
+    cyan: "#66cccc"
+    white: "#f2f0ec"
+theme: Eighties.light
+
+#colors config
+# colors:
+#   primary:
+#     background: "0x232136"
+#     foreground: "0xe0def4"
+#   cursor:
+#     text: "0xe0def4"
+#     cursor: "0x56526e"
+#   vi_mode_cursor:
+#     text: "0xe0def4"
+#     cursor: "0x56526e"
+#   line_indicator:
+#     foreground: None
+#     background: None
+#   selection:
+#     text: "0xe0def4"
+#     background: "0x44415a"
+#   normal:
+#     black: "0x393552"
+#     red: "0xeb6f92"
+#     green: "0x3e8fb0"
+#     yellow: "0xf6c177"
+#     blue: "0x9ccfd8"
+#     magenta: "0xc4a7e7"
+#     cyan: "0xea9a97"
+#     white: "0xe0def4"
+#   bright:
+#     black: "0x6e6a86"
+#     red: "0xeb6f92"
+#     green: "0x3e8fb0"
+#     yellow: "0xf6c177"
+#     blue: "0x9ccfd8"
+#     magenta: "0xc4a7e7"
+#     cyan: "0xea9a97"
+#     white: "0xe0def4"
+#   hints:
+#     start:
+#       foreground: "#908caa"
+#       background: "#2a273f"
+#     end:
+#       foreground: "#6e6a86"
+#       background: "#2a273f"

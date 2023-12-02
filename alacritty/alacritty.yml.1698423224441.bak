@@ -1,0 +1,93 @@
+#Font Config
+font:
+  normal:
+    family: "Space Mono Nerd Font"
+    style: regular
+  bold:
+    family: "Space Mono Nerd Font"
+    style: bold
+  italic:
+    family: "Space Mono Nerd Font"
+    style: italic
+
+  size: 18
+draw_bold_text_with_bright_colors: true
+
+# Window Config
+window:
+  opacity: 0.93
+  padding:
+    x: 4
+    y: 4
+  dynamic_padding: true
+colors:
+  # Default colors
+  primary:
+    background: '#202734'
+    foreground: '#CBCCC6'
+
+  # Normal colors
+  normal:
+    black: '#191E2A'
+    red: '#FF3333'
+    green: '#BAE67E'
+    yellow: '#FFA759'
+    blue: '#73D0FF'
+    magenta: '#FFD580'
+    cyan: '#95E6CB'
+    white: '#C7C7C7'
+
+  # Bright colors
+  bright:
+    black: '#686868'
+    red: '#F27983'
+    green: '#A6CC70'
+    yellow: '#FFCC66'
+    blue: '#5CCFE6'
+    magenta: '#FFEE99'
+    cyan: '#95E6CB'
+    white: '#FFFFFF'
+theme: Ayu-Mirage
+
+#colors config
+# colors:
+#   primary:
+#     background: "0x232136"
+#     foreground: "0xe0def4"
+#   cursor:
+#     text: "0xe0def4"
+#     cursor: "0x56526e"
+#   vi_mode_cursor:
+#     text: "0xe0def4"
+#     cursor: "0x56526e"
+#   line_indicator:
+#     foreground: None
+#     background: None
+#   selection:
+#     text: "0xe0def4"
+#     background: "0x44415a"
+#   normal:
+#     black: "0x393552"
+#     red: "0xeb6f92"
+#     green: "0x3e8fb0"
+#     yellow: "0xf6c177"
+#     blue: "0x9ccfd8"
+#     magenta: "0xc4a7e7"
+#     cyan: "0xea9a97"
+#     white: "0xe0def4"
+#   bright:
+#     black: "0x6e6a86"
+#     red: "0xeb6f92"
+#     green: "0x3e8fb0"
+#     yellow: "0xf6c177"
+#     blue: "0x9ccfd8"
+#     magenta: "0xc4a7e7"
+#     cyan: "0xea9a97"
+#     white: "0xe0def4"
+#   hints:
+#     start:
+#       foreground: "#908caa"
+#       background: "#2a273f"
+#     end:
+#       foreground: "#6e6a86"
+#       background: "#2a273f"
